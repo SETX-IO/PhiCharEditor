@@ -1,0 +1,12 @@
+.vs/
+.vsconfig        
+Library/
+Logs/
+*.sln
+Packages/
+Temp/
+UIElementsSchema/
+*.csproj
+UpgradeLog.htm
+UserSettings/
+obj/
